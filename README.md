@@ -22,6 +22,7 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gourprince222/DSA/tree/master/0058-length-of-last-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gourprince222/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,8 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gourprince222/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gourprince222/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
