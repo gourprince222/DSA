@@ -26,6 +26,7 @@ DSA practice solutions in JAVA
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/gourprince222/DSA/tree/master/0007-reverse-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gourprince222/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
