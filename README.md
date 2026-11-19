@@ -9,6 +9,7 @@ DSA practice solutions in JAVA
 | [0001-two-sum](https://github.com/gourprince222/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gourprince222/DSA/tree/master/0217-contains-duplicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gourprince222/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1539-kth-missing-positive-number](https://github.com/gourprince222/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gourprince222/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/gourprince222/DSA/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
