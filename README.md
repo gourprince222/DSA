@@ -48,4 +48,12 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/gourprince222/DSA/tree/master/1539-kth-missing-positive-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gourprince222/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gourprince222/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
