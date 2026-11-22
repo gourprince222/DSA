@@ -15,14 +15,17 @@ DSA practice solutions in JAVA
 | ------- |
 | [0001-two-sum](https://github.com/gourprince222/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gourprince222/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gourprince222/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gourprince222/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gourprince222/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gourprince222/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/gourprince222/DSA/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gourprince222/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
