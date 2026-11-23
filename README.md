@@ -14,6 +14,7 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gourprince222/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gourprince222/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/gourprince222/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gourprince222/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -24,6 +25,7 @@ DSA practice solutions in JAVA
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gourprince222/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/gourprince222/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/gourprince222/DSA/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gourprince222/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -56,4 +58,8 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gourprince222/DSA/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gourprince222/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
