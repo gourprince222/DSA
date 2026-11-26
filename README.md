@@ -7,6 +7,7 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gourprince222/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gourprince222/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gourprince222/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/gourprince222/DSA/tree/master/0217-contains-duplicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gourprince222/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -68,4 +69,8 @@ DSA practice solutions in JAVA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gourprince222/DSA/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gourprince222/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
